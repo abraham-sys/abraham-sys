@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abraham-sys
-- 👀 I’m interested in Back-end Development
-- 🌱 I’m currently learning NestJS
+- 👀 I’m interested in Back-end Development especially Go
 - 📫 How to reach me:
 
 Email me at abrampurnomo@gmail.com
