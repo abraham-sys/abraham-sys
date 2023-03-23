@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abraham-sys
-- 👀 I’m interested in Back-end Development especially Go
+- 👀 I’m specialized in Back-end Engineering especially Go
 - 📫 How to reach me:
 
 Email me at abrampurnomo@gmail.com
